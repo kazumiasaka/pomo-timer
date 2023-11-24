@@ -1,0 +1,96 @@
+.container {
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.title {
+  display: none; 
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px; 
+}
+
+.timer {
+  font-size: 72px;
+  color: #f7f7f6;
+  padding: 20px;
+  border: 2px solid #f7f7f6;
+  border-radius: 20px;
+  position: relative;
+  text-align: center; 
+  margin-top: 20px; 
+}
+
+.timer:before {
+  content: '\1F550';
+  font-size: 36px;
+  margin-right: 10px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 5px;
+  color: #f7f7f6;
+  border: 2px solid #f7f7f6;
+  border-radius: 4px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+#start, #stop, #reset {
+  background-color: transparent;
+}
+
+body {
+  background: url('https://i.pinimg.com/originals/a2/fa/e3/a2fae3271f3527618ef95d4438a2faf3.png') center/cover no-repeat fixed;
+  margin: 0;
+  color: #f7f7f6;
+}
+
+.spotify-link {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #f7f7f6;
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  background-color: #4E4E4E;
+  border-radius: 10px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.spotify-link a {
+  color: #1DB954;
+  text-decoration: none;
+}
+
+.spotify-link:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom right, transparent 45%, #4E4E4E 50%);
+  z-index: -1;
+}
