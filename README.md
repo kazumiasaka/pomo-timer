@@ -1,7 +1,7 @@
 # TUGAS AKHIR EKSKUL IT GASAL 2023/2024                       
 
 ## Pengantar :
-Salam IT. Kami, `M. Satria` , `M. Fauzi Rahman A.` dan `Adrian Barra P. W.` membuat sebuah projek website yang bertema **"PomoTimer".** "PomoTimer" kami rancang untuk memenuhi **TUGAS AKHIR EKSKUL IT GASAL 2023/2024.**
+Salam IT. Kami, `M. Satria` , `M. Fauzi Rahman A.` dan `Adrian Barra P. W.` membuat sebuah projek website yang berjudul **"PomoTimer".** "PomoTimer" kami rancang untuk memenuhi **TUGAS AKHIR EKSKUL IT GASAL 2023/2024.**
 
 ## Deskripsi Projek :
 Kami membuat sebuah projek yang kami namai sebagai **"PomoTimer".**  Projek ini bertujuan untuk Siswa/i yang ingin belajar dengan metode 'Pomodoro'. Teknik Pomodoro merupakan teknik memfokuskan diri pada selang waktu tertentu. Melalui teknik ini, Siswa/i dapat berfokus pada selang waktu tertentu, misal 25 menit.
