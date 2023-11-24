@@ -22,7 +22,7 @@ Kami membuat sebuah projek yang kami namai sebagai **"PomoTimer".**  Projek ini 
 - Kemudian masuk ke website http://127.0.0.1:5500/
 - Untuk memulai timer, tekan tombol `"Mulai"` pada bagian bawah timer, maka timer akan berjalan.
 - Untuk menghentikan timer, tekan tombol `"Berhenti"` pada bagian bawah timer, maka timer akan berhenti.
-- Untuk Mengulang timer, tekan tombol `"Ulang"` pada bagian bawah timer, maka timer akan terulang kembali.
+- Untuk Mengulang timer, tekan tombol `"Ulang"` pada bagian bawah timer, maka timer akan terulang. 
 - Jika ingin mendengarkan musik, tekan tombol `"Spotify"` pada bagian bawah ketiga tombol.
 
 ## Panduan Kontribusi
