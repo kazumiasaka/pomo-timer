@@ -13,7 +13,7 @@ Kami membuat sebuah projek yang kami namai sebagai **"PomoTimer".**  Projek ini 
 4. Melatih diri untuk mengelola waktu dengan baik.
 5. Mengurangi kebiasaan multitasking.
 
-> Jadi, dengan adanya projek kali ini, kami harapkan dapat membantu Siswa/i yang ingin belajar secara terfokus.
+> Jadi, dengan adanya projek kali ini, kami harapkan semoga dapat membantu Siswa/i yang ingin belajar secara terfokus.
 
 ## Cara penggunaan :
 - Sebelum menjalankan, Install **Extention**, kemudian cari **Live Server**
@@ -27,7 +27,7 @@ Kami membuat sebuah projek yang kami namai sebagai **"PomoTimer".**  Projek ini 
 
 ## Panduan Kontribusi
 
-Terima kasih atas minat Anda untuk berkontribusi pada proyek **PomoTimer!** Di bawah ini adalah panduan kontribusi untuk memudahkan Anda berpartisipasi dalam pengembangan proyek ini.
+**Terima kasih** atas minat Anda untuk berkontribusi pada proyek **PomoTimer!** Di bawah ini adalah panduan kontribusi untuk memudahkan Anda berpartisipasi dalam pengembangan proyek ini.
 
 ## Cara Berkontribusi pada Projek ini
 
@@ -50,7 +50,7 @@ Terima kasih atas minat Anda untuk berkontribusi pada proyek **PomoTimer!** Di b
    
 4. **Lakukan Perubahan**
    - Lakukan perubahan pada kode sesuai dengan kontribusi yang ingin Anda berikan.
-   - Pastikan untuk mengikuti pedoman gaya dan konvensi yang ada dalam proyek.
+   - Pastikan untuk mengikuti pedoman dan aturan yang berlaku dalam proyek.
 
 5. **Commit Perubahan**
    - Commit perubahan yang telah Anda buat.
@@ -74,7 +74,7 @@ Untuk menggunakan "PomoTimer" dengan lancar, pastikan sistem Anda memenuhi persy
 
 1. Browser Web Modern
 
-"PomoTimer" dirancang untuk bekerja dengan browser web modern yang mendukung teknologi HTML5. Pastikan Anda menggunakan browser terbaru seperti :
+"PomoTimer" dirancang untuk bekerja dengan browser web yang mendukung HTML5. Pastikan Anda menggunakan browser terbaru seperti :
 
 - Google Chrome
 - Mozilla Firefox
@@ -103,3 +103,6 @@ Jika Anda berniat untuk menjalankan "PomoTimer" secara online, pastikan Anda mem
 
 
 > Pastikan untuk memenuhi kebutuhan sistem di atas agar Anda dapat menggunakan "PomoTimer" dengan maksimal. Jika mengalami masalah/eror, pastikan browser dan sistem anda memenuhi persyaratan di atas sebelum mencari solusi lebih lanjut.
+
+Peace,
+Kazu - 2023
