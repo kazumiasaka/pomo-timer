@@ -18,7 +18,7 @@ Kami membuat sebuah projek yang kami namai sebagai **"PomoTimer".**  Projek ini 
 ## Cara penggunaan :
 - Sebelum menjalankan, Install **Extention**, kemudian cari **Live Server**
 - Kemudian tekan tombol `install`. 
-- Setelah terinstall, dan menjalankan, tekan tombol `Go Live` pada bagian ujung kanan **VSCODE**
+- Setelah terinstall, dan untuk menjalankan, tekan tombol `Go Live` pada bagian ujung kanan **VSCODE**
 - Kemudian masuk ke website http://127.0.0.1:5500/
 - Untuk memulai timer, tekan tombol `"Mulai"` pada bagian bawah timer, maka timer akan berjalan.
 - Untuk menghentikan timer, tekan tombol `"Berhenti"` pada bagian bawah timer, maka timer akan berhenti.
@@ -104,5 +104,5 @@ Jika Anda berniat untuk menjalankan "PomoTimer" secara online, pastikan Anda mem
 
 > Pastikan untuk memenuhi kebutuhan sistem di atas agar Anda dapat menggunakan "PomoTimer" dengan maksimal. Jika mengalami masalah/eror, pastikan browser dan sistem anda memenuhi persyaratan di atas sebelum mencari solusi lebih lanjut.
 
-Peace,
-Kazu - 2023
+*Peace,*
+**Kazu - 2023**
